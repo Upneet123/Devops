@@ -1,3 +1,3 @@
 # Devops
 Practical
-Practicals
+Practicalss
